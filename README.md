@@ -1,4 +1,4 @@
-# Estudo-de-caso-Computational Logic Using Python
+Portífolio-Computational Logic Using Python
 eventos = {
     "Tech Week": {
         "descricao": "Palestras e workshops sobre inovação e segurança digital",
